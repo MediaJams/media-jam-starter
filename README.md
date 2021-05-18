@@ -5,5 +5,5 @@
 1. `rm README.md`
 1. Add your project
 1. Push your commits
-1. Add to CodeSandbox
 1. Create PR
+1. Checkout the Sandbox!
